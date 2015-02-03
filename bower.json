@@ -1,0 +1,18 @@
+{
+  "name": "app-browserify",
+  "version": "0.0.0",
+  "authors": [
+    "Avi Haiat <thaiat@ipelia.fr>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.11"
+  }
+}
